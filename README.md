@@ -92,7 +92,7 @@
 | **E-commerce with AI Chatbot** | React • Spring Boot • Kafka • Redis • Docker | [ramharsh-aurkira-website.vercel.app/](https://ramharsh-aurkira-website.vercel.app/) |
 | **Real-time Interview & Proctoring** | Next.js • WebRTC • TensorFlow.js | [quantix-ai-gamma.vercel.app/](https://quantix-ai-gamma.vercel.app/) |
 | **DSA Visualization Platform** | React • Tailwind • Vite | [dsa-prototype.vercel.app/](https://dsa-prototype.vercel.app/) |
-| **Financial-AI** | Python • Streamlit • LlamaIndex | [financial-assitant.vercel.app/](https://financial-assitant.vercel.app/) |
+| **Financial-AI** | ReactJs • Django • GenAI | [financial-assitant.vercel.app/](https://financial-assitant.vercel.app/) |
 
 ---
 
