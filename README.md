@@ -75,12 +75,13 @@
 
 ## 🏆 Highlights & Achievements
 
-- ⭐ **400+ LeetCode problems** solved.
 - 🥇 Winner – Felicity Hackathon, IIIT-H (2024).
+- 🌍 Global Rank 11 – Unstop Code Conquest.
 - 🏆 1st place – Samarthana’24, ICT Mumbai.
-- 🏅 Finalist – IIT-Bombay Techfest CODECODE.
-- 🌍 Global Rank 11 – Unstop Code Conquest; Unstop overall Top-2000.
-- 🎖️ Consistent **8.86 CGPA** in B.E. (Computer Science – AI & ML).
+- 🌍 Unstop Global Rank under 3000.
+- 🎖️HACKHAZARDS'25 top 100 Out of 2,900+ teams & 5,700+ solo hackers globally
+- 🥈Finalist in IIT-Bombay Techfest CODECODE, Build with India(Powered by Microsoft), B-plan, Vishleshan (by VNIT), IBM TechExchange hackathon, IDEA^3
+- 🥉Semifinalist in Voyagehack 2.0 (by TBO), MahaHackathon (by Govt. of India), Pears Global Hackathon, CodeClash 2.0
 
 ---
 
