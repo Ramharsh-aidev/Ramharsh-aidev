@@ -81,7 +81,7 @@
 - 🌍 Unstop Global Rank under 3000.
 - 🎖️HACKHAZARDS'25 top 100 Out of 2,900+ teams & 5,700+ solo hackers globally
 - 🥈Finalist in IIT-Bombay Techfest CODECODE, Build with India(Powered by Microsoft), B-plan, Vishleshan (by VNIT), IBM TechExchange hackathon, IDEA^3
-- 🥉Semifinalist in Voyagehack 2.0 (by TBO), MahaHackathon (by Govt. of India), Pears Global Hackathon, CodeClash 2.0
+- 🥉Semifinalist in Voyagehack 2.0 (by TBO), MahaHackathon (by Govt. of India) - Top 10 Nationalist, Pears Global Hackathon, CodeClash 2.0
 
 ---
 
