@@ -2,7 +2,7 @@
 <!--  Profile README – Ramharsh Dandekar                   -->
 <!-- ----------------------------------------------------- -->
 
-<h1 align="center">Hi, I’m Ramharsh Dandekar 👋</h1>
+<h1 align="center">Hi, I’m Ramharsh Sanjay Dandekar 👋</h1>
 <p align="center">
   Full-Stack Developer • Java / Spring Boot • React / Next.js • AI & ML Enthusiast
 </p>
