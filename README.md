@@ -58,9 +58,7 @@
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramharsh-aidev&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-</p>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ramharsh-aidev&theme=radical" alt="GitHub Streak" height="165">
 </p>
