@@ -66,13 +66,18 @@
 </p>
 <p align="center">
    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Ramharsh-aidev&theme=gruvbox&no-bg=true&no-frame=true&column=7&row=1" alt="GitHub Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Ramharsh-aidev&theme=gruvbox&no-bg=true&no-frame=true&column=6&row=1" alt="GitHub Trophies" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramharsh-aidev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
+---
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramharsh-aidev&theme=algolia" width="100%" /> </br></br>
+<p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ramharsh-aidev&theme=algolia" width="31.3%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ramharsh-aidev&theme=algolia" width="31.3%" align="center"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ramharsh-aidev&theme=algolia" width="31.3%" align="right" title="🦉 Night owl" />  
+</p>
+  
 ---
 
 ## 🏆 Highlights & Achievements
@@ -109,5 +114,9 @@ I’m always up for collaborating on impactful products, discussing system desig
 </div>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ramharsh-aidev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
 
 *Thanks for stopping by! If you like what you see, drop a ⭐ or open an issue – feedback is always appreciated.*  
