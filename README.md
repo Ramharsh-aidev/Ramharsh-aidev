@@ -61,7 +61,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramharsh-aidev&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
 </p>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ramharsh-aidev&theme=radical" alt="GitHub Streak" height="165">
+</p>
+<p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Ramharsh-aidev&theme=gruvbox&no-bg=true&no-frame=true&column=6&row=1" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
