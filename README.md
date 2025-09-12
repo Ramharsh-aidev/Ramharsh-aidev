@@ -83,6 +83,7 @@
 
 ## 🏆 Highlights & Achievements
 
+- 🏆 Tencent Global Hackathon Winner – Best Code and Best Idea Award
 - 🥇 Winner – Felicity Hackathon, IIIT-H (2024).
 - 🌍 Global Rank 11 – Unstop Code Conquest.
 - 🏆 1st place – Samarthana’24, ICT Mumbai.
