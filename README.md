@@ -94,10 +94,11 @@
 - 🥇 Winner – Felicity National Hackathon, IIIT-H (2024).
 - 🌍 Global Rank 11 – Unstop Code Conquest.
 - 🏆 1st place – Samarthana’24, ICT Mumbai.
+- 🥈 Top 50 Finalist in IMC International Hackathon - Largest Networking Hackathon
 - 🌍 Unstop Global Rank under 3000.
 - 🎖️ HACKHAZARDS'25 top 100 Out of 2,900+ teams & 5,700+ solo hackers globally
 - 🥈 Finalist in IIT-Bombay Techfest CODECODE, IIT-Madras Shastra Coding Competition, Build with India(Powered by Microsoft), B-plan, Vishleshan (by VNIT), IBM TechExchange hackathon, IDEA^3
-- 🥉 Semifinalist in Voyagehack 2.0 (by TBO), MahaHackathon (by Govt. of India) - Top 10 Nationalist, Pears Global Hackathon, CodeClash 2.0
+- 🥉 Semifinalist in Voyagehack 2.0 (by TBO), MahaHackathon (by Govt. of India) - Top 10 Nationalist, Pears Global Hackathon, CodeClash 2.0, Tata Imagination Challenge
 
 ---
 
