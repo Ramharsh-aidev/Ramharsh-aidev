@@ -71,6 +71,10 @@
   </a>
 </p>
 
+<!-- ![GitHub activity graph](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg) -->
+
+![GitHub activity graph (dark)](https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramharsh-aidev&theme=algolia" width="100%" /> </br></br>
